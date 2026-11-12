@@ -234,4 +234,4 @@ Project IGI is offered as a complete free version with all features and updates 
 Download Project IGI today and dive into an action-packed adventure filled with strategy and excitement!
 
 ---
-**Last updated:** 2026-11-12 01:48:28 UTC
+**Last updated:** 2026-11-12 09:06:49 UTC
